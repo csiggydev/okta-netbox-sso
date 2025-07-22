@@ -1,18 +1,18 @@
-# NetBox Okta SSO Mapper
+# Okta NetBox SSO Mapper
 
-Configure NetBox Docker to authenticate users via **Okta SSO** using OAuth2 and dynamically assign them to NetBox groups based on their Okta group membership.
+Configure NetBox Docker to authenticate users via Okta SSO using OAuth2 and dynamically assign them to NetBox groups based on their Okta group membership.
 
 ---
 
 ## Table of Contents
 
-[Overview](#overview)
-[Prerequisites](#prerequisites)
-[Okta Setup](#okta-setup)
-[NetBox Docker Configuration](#netbox-docker-configuration)
-[Logging](#logging)
-[Troubleshooting](#troubleshooting)
-[Documentation](#documentation)
+1. [Overview](#overview)
+2. [Prerequisites](#prerequisites)
+3. [Okta Setup](#okta-setup)
+4. [NetBox Docker Configuration](#netbox-docker-configuration)
+5. [Logging](#logging)
+6. [Troubleshooting](#troubleshooting)
+7. [Documentation](#documentation)
 
 ---
 
